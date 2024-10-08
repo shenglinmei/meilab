@@ -24,8 +24,8 @@ author:
   email: shenglinmei [at] vt [dot] edu
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: > 
- Shenglin Mei's computational biology lab at VT (2024)
+#description: > 
+# Shenglin Mei's computational biology lab at VT (2024)
 
 # Build settings
 
@@ -78,7 +78,7 @@ header_pages:
   - pages/contact.md
 
 # background image for header
-header_img: pics/dindex.image.png
+# header_img: pics/dindex.image.png
 
 # width of the page
 page_width: 1200px # controls both header image and text content width. 
