@@ -78,7 +78,7 @@ header_pages:
   - pages/contact.md
 
 # background image for header
-header_img: pics/duke_chapel.jpg
+header_img: pics/dindex.image.png
 
 # width of the page
 page_width: 1200px # controls both header image and text content width. 
