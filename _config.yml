@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Yi Zhang CompBio @ Duke
+title: Shenglin Mei Lab @ VT
 author:
-  name: Yi Zhang
-  email: yi.zhang [at] duke [dot] edu
+  name: Shenglin mei
+  email: shenglinmei [at] vt [dot] edu
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: > 
- Yi Zhang's computational biology lab at Duke University (2024)
+ Shenglin Mei's computational biology lab at VT (2024)
 
 # Build settings
 
@@ -51,8 +51,8 @@ minima:
   #   - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #   - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #   - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
-     - { platform: github,         user_url: "https://github.com/yi-zhang" }
-     - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=yTJVsxEAAAAJ&hl=en" }
+     - { platform: github,         user_url: "https://github.com/shenglinmei" }
+     - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=MntNsM8AAAAJ&hl=zh-CN" }
   #   - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
   #   - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
   #   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
